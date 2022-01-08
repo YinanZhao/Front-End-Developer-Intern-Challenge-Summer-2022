@@ -1,6 +1,6 @@
 # Front End Developer Intern Challenge - Summer 2022
 
-- [**Challenge app**]https://csb-yje8z-788qephl8-yinanzhao.vercel.app
+- [**Challenge app**](https://csb-yje8z-788qephl8-yinanzhao.vercel.app)
 - [**Challenge specification**](https://docs.google.com/document/d/13zXpyrC2yGxoLXKktxw2VJG2Jw8SdUfliLM-bYQLjqE/edit#heading=h.31w9woubunro)
 
 ## To run locally
