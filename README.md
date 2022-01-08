@@ -1,7 +1,15 @@
 # Front End Developer Intern Challenge - Summer 2022
 
-- [**Challenge app**](https://csb-hjigy-o2w3ph2td-yinanzhao.vercel.app)
+NOTE: there's a weird bug with HTTPS being replaced by HTTP in API request call for some reason, and this only seems to matter on Chrome browser. It works without issue on Safari browser. I have searched for solutions extensively but did not find a solution :( As much as this is bothering me, it is probably not worth it to fix it. Running locally also solves this issue so clone the repo to see! I have also attached images below of how it looks like once completed
+
+- [**Challenge app**](https://csb-8e3hw-gi7dz0t26-yinanzhao.vercel.app/)
 - [**Challenge specification**](https://docs.google.com/document/d/13zXpyrC2yGxoLXKktxw2VJG2Jw8SdUfliLM-bYQLjqE/edit#heading=h.31w9woubunro)
+
+## Images of how it looks like
+
+![Alt text](images/Example_1.png?raw=true)
+
+![Alt text](images/Example_2.png?raw=true)
 
 ## To run locally
 
