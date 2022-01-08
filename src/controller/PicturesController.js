@@ -1,5 +1,5 @@
 const API_KEY = "dzaubvu8eHfv0BVAFLTeTxNkSRoYb9081bzvodEG" // in actual code, would be secure in backend
-const NASA_URL = `https://api.nasa.gov/planetary/apod/`;
+const NASA_URL = `HTTPS://api.nasa.gov/planetary/apod/`;
 // would generally be implemented in backend but using React with minimal backend here
 
 export const getPicture = async () => {

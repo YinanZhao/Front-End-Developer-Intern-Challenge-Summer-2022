@@ -1,6 +1,6 @@
 import './App.css';
 import { useState } from "react";
-import { getPicture, getPicturesByDate } from "./controller/MoviesController";
+import { getPicture, getPicturesByDate } from "./controller/PicturesController";
 import { Picture } from "./components/Picture"
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
