@@ -1,10 +1,11 @@
 # Front End Developer Intern Challenge - Summer 2022
 
-- [**Challenge app**](https://csb-yje8z-788qephl8-yinanzhao.vercel.app)
+- [**Challenge app**](https://csb-hjigy-o2w3ph2td-yinanzhao.vercel.app)
 - [**Challenge specification**](https://docs.google.com/document/d/13zXpyrC2yGxoLXKktxw2VJG2Jw8SdUfliLM-bYQLjqE/edit#heading=h.31w9woubunro)
 
 ## To run locally
-Clone this repo, run "npm run start" in command line/terminal. Then, navigate to "http://localhost:3000" in browser. 
+
+Clone this repo, run "npm run start" in command line/terminal. Then, navigate to "http://localhost:3000" in browser.
 
 ## Features
 
@@ -20,7 +21,6 @@ The user may:
 - HTML
 - CSS
 
-
 ## Libraries used
 
 - DatePicker
@@ -31,5 +31,4 @@ The user may:
 
 **All** components except for the date picker were developed from scratch.
 
-Although Apollo and GraphQL were implemented in part in this project, they were not necessary for the completion of the project. 
-
+Although Apollo and GraphQL were implemented in part in this project, they were not necessary for the completion of the project.
